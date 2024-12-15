@@ -5,9 +5,9 @@ global $password;
 global $database;
 
 $servername = "localhost:3306";
-$username = "root";
+$username = "";
 $password = "";
-$database = "empresa";
+$database = "";
 ?>
 
 
