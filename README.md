@@ -13,7 +13,6 @@ This project is a **web application** designed to manage employee data for a com
    - [Normalization](#normalization)
 4. [Installation and Setup](#installation-and-setup)
 5. [How to Use](#how-to-use)
-6. [Future Improvements](#future-improvements)
 
 ---
 
