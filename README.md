@@ -3,19 +3,6 @@
 
 This project is a **web application** designed to manage employee data for a company. It provides functionalities to manipulate employee data, including adding new employees, updating their information, and removing them from the database. The application is built with **PHP** for the backend and **MySQL** as the database.
 
-## Table of Contents
-
-1. [Features](#features)
-2. [Tech Stack](#tech-stack)
-3. [Database Design](#database-design)
-   - [Application Domain](#application-domain)
-   - [Database Structure](#database-structure)
-   - [Normalization](#normalization)
-4. [Installation and Setup](#installation-and-setup)
-5. [How to Use](#how-to-use)
-
----
-
 ## Features
 
 - **Employee Management**: Add, update, view, and delete employee records.
